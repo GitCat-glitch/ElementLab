@@ -1,7 +1,6 @@
 # **ElementLab**
 ---
-![Downloads](https://img.shields.io/github/downloads/GitCat-glitch/ElementLab/total)  
-![Stars](https://img.shields.io/github/stars/GitCat-glitch/ElementLab)
+![Downloads](https://img.shields.io/github/downloads/GitCat-glitch/ElementLab/total)  ![Stars](https://img.shields.io/github/stars/GitCat-glitch/ElementLab) ![madebygitcatglitch](https://img.shields.io/badge/made%20by-%20GitCatglitch-8A2BE2)
 
 ![ElementLab Logo](readme/LogoExpanded.png)
 
